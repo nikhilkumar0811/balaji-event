@@ -1,0 +1,12 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Allow:/
+Allow:/best-wedding-venue-santacruz
+Allow:/party-hall-santacruz
+Allow:/event-decorator-santacruz
+Allow:/best-banqute-hall-santacruz
+Allow:/wedding-lawn-santacruz
+Allow:/best-catering-service-santacruz
+Allow:/wedding-planner-santacruz
+Allow:/event-management-santacruz
+Allow: /sitemap.xml
