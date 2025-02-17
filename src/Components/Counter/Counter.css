@@ -1,0 +1,33 @@
+.fun-factor {
+    background: url(https://htmldemo.net/resta/resta/images/bg/fun-factor.jpg) no-repeat scroll center center;
+    background-size: cover;
+    padding:  80px 0px;
+    margin-bottom: 100px;
+}
+
+.fun-icon i{
+    color: rgb(206, 42, 42);
+    font-size: 5vh;
+}
+.fun-icon h5{
+    font-family: 'Playball', cursive !important;
+
+}
+
+.testimonial-content:after {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    content: "";
+    background: url(https://preview.hasthemes.com/panshi/img/testimonia/quote.png);
+    width: 34px;
+    height: 30px;
+}
+
+.swiper-pagination-bullet-active {
+    opacity: var(--swiper-pagination-bullet-opacity, 1);
+    background: #d4a762 !important;
+}
+
+
+
